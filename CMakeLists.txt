@@ -4,4 +4,5 @@ project(digital_consciousness_simulator)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(digital_consciousness_simulator main.cpp
-        Memory.h)
+        Memory.h
+        Emotion.h)
