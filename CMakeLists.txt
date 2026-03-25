@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(digital_consciousness_simulator main.cpp
         Memory.h
         Emotion.h
-        DecisionEngine.h)
+        DecisionEngine.h
+        Agent.h)
